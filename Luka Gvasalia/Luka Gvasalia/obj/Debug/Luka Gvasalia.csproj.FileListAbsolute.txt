@@ -1,0 +1,10 @@
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\bin\Debug\Luka Gvasalia.exe.config
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\bin\Debug\Luka Gvasalia.exe
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\bin\Debug\Luka Gvasalia.pdb
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka Gvasalia.csproj.AssemblyReference.cache
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka_Gvasalia.Form1.resources
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka_Gvasalia.Properties.Resources.resources
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka Gvasalia.csproj.GenerateResource.cache
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka Gvasalia.csproj.CoreCompileInputs.cache
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka Gvasalia.exe
+C:\Users\Levan\source\repos\Luka Gvasalia\Luka Gvasalia\obj\Debug\Luka Gvasalia.pdb
